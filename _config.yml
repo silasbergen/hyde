@@ -6,9 +6,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
+title:            Silas Bergen's Course Page
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      Course materials and miscellany
 url:              http://hyde.getpoole.com
 baseurl:          https://silasbergen.github.io/hyde/
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://silasbergen.github.io
